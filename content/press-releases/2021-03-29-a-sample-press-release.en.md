@@ -1,6 +1,6 @@
 ---
 title: A sample press release
-date: 2021-03-29T13:55:46.227Z
+date: 2021-03-16T14:55:46.227Z
 ---
 LAS VEGAS, Nevada, March 16, 2021 –[Tachyum](http://www.tachyum.com)™ Inc. today announced that it is nearing design completion of its Prodigy Universal Processor, further ensuring that hyperscale data centers, supercomputer and next generation AI system designers, will finally have the disruptive universal computing fabric to deliver beyond state-of-the-art performance.
 
