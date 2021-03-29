@@ -1,5 +1,5 @@
 ---
-title: Testovacia tlačová správa
+title: Testovacia tlačová správa s d8tumom
 ---
 LAS VEGAS, Nevada, 16. marca, 2021 – Spoločnosť [Tachyum](http://www.tachyum.com)™ dnes oznámila, že sa blíži ku kompletnému návrhu svojho univerzálneho procesora Prodigy. Ďalej tak ubezpečuje, že hyperškálové dátové centrá a systémoví dizajnéri superpočítačov a novej generácie umelej inteligencie budú mať konečne prelomovú univerzálnu výpočtovú štruktúru, ktorá bude poskytovať nebývalú špičkovú výkonnosť.
 
