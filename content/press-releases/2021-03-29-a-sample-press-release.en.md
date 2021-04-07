@@ -20,8 +20,6 @@ Prodigy’s 3X lower cost per MIPS and its 10X lower core power translate to a 4
 
 Parties interested in evaluating Prodigy software emulation systems can visit <https://www.tachyum.com/webhosting> for more information.
 
-
-
 ##### Follow Tachyum
 
 <https://twitter.com/tachyum>\
