@@ -4,6 +4,9 @@ backend:
   base_url: http://127.0.0.1:5000
 media_folder: static/img
 public_folder: /img
+i18n:
+  structure: multiple_files
+  locales: [en, sk]
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -17,3 +20,14 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'pr'
+    label: 'Press release'
+    folder: 'content/press-releases'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    i18n: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', i18n: duplicate }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }

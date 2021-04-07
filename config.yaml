@@ -1,5 +1,14 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: My New Hugo Site
+removePathAccents: true
+languages:
+  en:
+    languageName: English
+    weight: 1
+  sk:
+    languageName: Slovenčina
+    weight: 2
 permalinks:
   blog: blog/:year/:month/:title/
+  press-releases: press-releases/:year/:month/:day-:title

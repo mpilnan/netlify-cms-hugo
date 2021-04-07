@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<!-- header ================================================== -->
+<html><head>
+
+	<!-- <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css"> -->
+	<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<title>Tachyum</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta content="#0066cc" name="theme-color">
+	<link rel="shortcut icon" href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/favicon.ico">
+	<link href="/assets/css/css_002.css" rel="stylesheet">
+	<link href="/assets/css/css.css" rel="stylesheet">
+	<script src="/assets/js/jquery.js"></script>
+</head>
+
+<body>
+	<header class="header">
+		<div class="topheader">
+			<div class="logo">
+				<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/">
+					<img src="/assets/img/logo.svg" alt="Tachyum">
+				</a>
+			</div>
+			<div class="lang">
+				<ul>
+					<li class="active"><a href="">USA</a></li>
+					<li><a href="https://www.tachyum.us/" target="_blank">GOV</a></li>
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/eu/index">EU</a></li>
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/sk/index">SK</a></li>
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/cn/index">CN</a></li>
+				</ul>
+			</div>
+			<div class="globe" onclick="langExpand(this)">
+				<img src="/assets/img/earth.png" alt="">
+			</div>
+			<div id="hamburger" class="hamburger" onclick="menuExpand(this)">
+				<div class="bar1"></div>
+				<div class="bar2"></div>
+				<div class="bar3"></div>
+			</div>
+		</div>
+		<nav id="sticker" class="nav">
+			<div class="menu-container">
+				<div class="sticky_logo">
+					<span><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/index.shtml">
+							<img onclick="langExpand(this)" src="/assets/img/logo-black.svg" alt="Tachyum">
+						</a></span>
+				</div>
+				<ul class="menu">
+					<span class="border">
+						<li class="first notlast"><a id="why-tachyum_menu" href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/why-tachyum"><span>Why
+									Tachyum<span></span></span></a></li>
+					</span>
+					<span class="border">
+						<li class="notlast"><a id="company_menu" class="notlast" href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/company"><span>Company</span></a>
+						</li>
+					</span>
+					<span class="border">
+						<li id="products_menu" class="notlast"><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/products"><span>Products</span></a></li>
+					</span>
+					<span class="border dropdown-resources">
+						<li class="notlast"><a id="resources_menu" href="javascript:void(0);"><span>Resources</span></a>
+						</li>
+					</span>
+					<span class="border dropdown">
+						<li class="notlast"><a id="solutions_menu" class="dropbtn" href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions"><span>Solutions</span></a></li>
+					</span>
+					<span class="border">
+						<li class="notlast"><a id="jobs_menu" href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/jobs"><span>Jobs</span></a></li>
+					</span>
+					<span class="border dropdown1">
+						<li class="notlast"><a id="media_menu" href="javascript:void(0);"><span>News</span></a></li>
+					</span>
+					<span>
+						<li><a id="contact_menu" href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/contact.php"><span>Contact</span></a></li>
+					</span>
+				</ul>
+			</div>
+		</nav>
+	</header>
+	<div class="dropdown dropdown-content">
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions.shtml#hsd">Hyperscale Datacenters</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions.shtml#hpc">High-Performance Computing</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions.shtml#ai">Artificial Intelligence</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions.shtml#pc">Private Cloud</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions.shtml#tc">Telecommunications</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions.shtml#mi">Military and Intelligence</a>
+	</div>
+	<div class="dropdown-resources dropdown-resources-content" style="display: none; left: 756.042px;">
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/presentations">Presentations</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/partners">Partners &amp; Associations</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/software">Software</a>
+	</div>
+	<div class="dropdown1 dropdown-content1">
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/events">Events</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/tachyum_in_news">Tachyum in the News</a>
+		<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/press_room">Press Room</a>
+	</div>
+	<div id="mobile-menu" class="mobile-nav">
+		<ul>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/why-tachyum"><span class="mobile-nav-text">Why Tachyum</span></a></li>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/company"><span class="mobile-nav-text">Company</span></a></li>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/products"><span class="mobile-nav-text">Products</span></a></li>
+			<li><a href="javascript:void(0);"><span class="mobile-nav-text">Resources</span></a><i class="fa fa-caret-down fa-caret-down-resources"></i>
+				<ul id="mobile-resources">
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/presentations">Presentations</a></li>
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/partners">Partners &amp; Associations</a></li>
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/software">Software</a></li>
+				</ul>
+			</li>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/solutions"><span class="mobile-nav-text">Solutions</span></a>
+				<!-- <i class="fa fa-caret-down fa-caret-down1"></i>
+				<ul id="mobile1">
+					<li><a href="solutions.shtml#hsd">Hyperscale Datacenters</a></li>
+					<li><a href="solutions.shtml#hpc">High-Performance Computing</a></li>
+					<li><a href="solutions.shtml#ai">Artificial Intelligence</a></li>
+					<li><a href="solutions.shtml#pc">Private Cloud</a></li>
+					<li><a href="solutions.shtml#tc">Telecommunications</a></li>
+					<li><a href="solutions.shtml#mi">Military and Intelligence</a></li>
+				</ul> -->
+			</li>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/jobs"><span class="mobile-nav-text">Jobs</span></a></li>
+			<li><a href="javascript:void(0);"><span class="mobile-nav-text">News</span></a><i class="fa fa-caret-down fa-caret-down2"></i>
+				<ul id="mobile2">
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/events">Events</a></li>
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/tachyum_in_news">Tachyum in the News</a></li>
+					<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/press_room">Press Room</a></li>
+				</ul>
+			</li>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/contact"><span class="mobile-nav-text">Contact</span></a></li>
+		</ul>
+		<!--a href="why-tachyum"><span class="mobile-nav-text">Why Tachyum</span></a>
+		<a href="company"><span class="mobile-nav-text">Company</span></a>
+		<a href="products"><span class="mobile-nav-text">Products</span></a>
+		<a href="resources"><span class="mobile-nav-text">Resources</span></a>
+		<a href="solutions"><span class="mobile-nav-text">Solutions</span></a>
+		<a href="jobs"><span class="mobile-nav-text">Jobs</span></a>
+		<a href="news"><span class="mobile-nav-text">Media</span></a>
+		<a href="contact"><span class="mobile-nav-text">Contact</span></a-->
+	</div>
+
+	<div id="mobile-lang" class="mobile-nav">
+		<ul>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/eu/index"><span class="mobile-nav-text">European Union</span></a></li>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/sk/index"><span class="mobile-nav-text">Slovakia</span></a></li>
+			<li><a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/cn/index"><span class="mobile-nav-text">China</span></a></li>
+			<li><a href="https://tachyum.us/" target="_blank"><span class="mobile-nav-text">GOV</span></a></li>
+		</ul>
+	</div>
+<!-- end of header ================================================== -->
+<section id="main-message">
+    <div class="row">
+        <div style="margin-top: 10px;"> &nbsp; </div>
+        <div class="description">
+
+            <div style="width:68%;display:inline-block">
+                <h4 style="margin-left:0;margin-block-end:0;text-align:left"><i style="color:gray;">News Release</i>
+                </h4>
+                <p style="margin-top:0;padding-top:0;"><b style="color:gray;">For immediate release</b><br>
+                    Contact:<br>
+                    Mark Smith<br>
+                    JPR Communications<br>
+                    818-798-1472<br>
+                    <a href="#" class="cryptedmail" style=" color: #0066CC;" data-name="marks" data-domain="jprcom" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a>
+                </p>
+            </div>
+            <div style="width:25%;height:auto;display:inline-block;vertical-align:top;">
+                <img style="top:-100px;" src="/assets/img/Tachyum_logo%2520blue.jpg">
+            </div>
+            <h4 style="margin-top: 50px;margin-bottom:0px;">
+                {{ .Title }}
+            </h4>
+
+            {{ .Content }}
+
+        </div> <!-- end .main-col -->
+    </div>
+</section> <!-- About Section End-->
+<!-- footer ================================================== -->
+<!-- end of footer ================================================== -->
+
+
+<div id="trademarksModal" class="modal">
+	<!-- Modal content -->
+	<div class="modal-content">
+		<div class="modal-header">
+			<span class="close">×</span>
+			<h2>Trademark Information</h2>
+		</div>
+		<div class="modal-body trademarks">
+			<p>
+				Trademark ownership must be designated for the following trademarks.
+			</p>
+			<p>
+				The format is “(trademark) is a trademark (or registered trademark) of (company name).”
+			</p>
+			<p>Trademarks:</p>
+			<ul>
+				<li>Tachyum™</li>
+				<li>Tachyum logo</li>
+				<li>Tachyum Prodigy™</li>
+				<li>TPU®</li>
+			</ul>
+
+		</div>
+		<div class="modal-footer">
+			<p>
+				This list is updated from time to time. Failure by Tachyum to list a particular trademark
+				(registered or unregistered) is not a waiver of any Tachyum rights.
+			</p>
+		</div>
+	</div>
+</div>
+
+<div class="ftr-sign-up-container">
+	<div class="ftr-sign-up">
+		<label>be among the first to receive news, events, and updates</label>
+		<div class="sign-up-btn">
+			<a href="http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/registration.php">Sign up now</a>
+		</div>
+	</div>
+</div>
+<footer class="tach-footer">
+	<div class="page-footer">
+		<div class="row">
+
+			<div class="twelve columns" style="width: 100% !important;">
+				<div class="copyright">© 2021 Tachyum</div>
+				<ul class="social-links">
+					<li><a href="#" class="cryptedmail2" data-name="contactus" data-domain="tachyum" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return true;"><i class="fa fa-envelope"></i></a></li>
+					<li><a href="https://www.facebook.com/Tachyum/"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://twitter.com/tachyum"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/tachyum"><i class="fa fa-linkedin"></i></a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="trademarks">
+				<button id="trademarksButton">Trademark Information</button>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script>
+	function menuExpand(x) {
+		x.classList.toggle("change");
+		document.getElementById("mobile-menu").classList.toggle("show-menu");
+		document.getElementById("mobile-lang").classList.remove("show-lang");
+	}
+</script>
+<script>
+	function langExpand(x) {
+		document.getElementById("hamburger").classList.remove("change");
+		document.getElementById("mobile-lang").classList.toggle("show-lang");
+		document.getElementById("mobile-menu").classList.remove("show-menu");
+	}
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('#reg_form').on('submit', function (e) {
+			e.preventDefault();
+			var captcha_code = document.getElementById("captch_code").value;
+			if ($('#firstname').val() == '') {
+				alert('Please enter first name');
+				$('#firstname').focus();
+				return false;
+			}
+			if ($('#lastname').val() == '') {
+				alert('Please enter last name');
+				$('#lastname').focus();
+				return false;
+			}
+			if ($('#email').val() == '') {
+				alert('Please enter email');
+				$('#email').focus();
+				return false;
+			}
+			if (IsEmail($('#email').val()) == false) {
+				alert('Please enter valid email address');
+				$('#email').focus();
+				return false;
+			}
+
+			if ($("#i_understand:checked").length <= 0) {
+				alert("Please check tachyum newsletter checkbox");
+				return false;
+			}
+			if ($("#i_understand_2:checked").length <= 0) {
+				alert("Please check tachyum newsletter checkbox for unsubscribe");
+				return false;
+			}
+
+			if (captcha_code == '') {
+				alert('Please enter captcha Code');
+				$('#captch_code').focus();
+				return false;
+			}
+
+
+
+
+			$.ajax({
+				type: "POST",
+				url: "form.php",
+				dataType: 'json',
+				data: {
+					firstname: $('#firstname').val(),
+					lastname: $('#lastname').val(),
+					email: $('#email').val(),
+					redirectto: $('#redirectto').val(),
+					i_understand: $('#i_understand').val(),
+					i_understand_2: $('#i_understand_2').val(),
+					captch_code: $('#captch_code').val(),
+					send_contact_email: $('.submit_contact_form').val()
+				}, success: function (res) {
+					if (res.error == false) {
+						window.location = 'thankyou.php';
+					} else {
+						$('.validation_error').html(res.message);
+					}
+				}
+			});
+		});
+	});
+
+	function IsEmail(email) {
+		var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		if (!regex.test(email)) {
+			return false;
+		} else {
+			return true;
+		}
+	}
+</script>
+
+<script>
+	function calculateOffset(menuLinkSelector, menuContentSelector) {
+		return $(menuLinkSelector).offset()["left"] + ($(menuLinkSelector).outerWidth() - $(menuContentSelector).outerWidth()) / 2;
+	}
+
+	function setOffset(menuLinkSelector, menuContentSelector) {
+		$(menuContentSelector).css("left", calculateOffset(menuLinkSelector, menuContentSelector));
+	}
+
+	function setMenuHover(menuLinkSelector, menuContentSelector) {
+		$(menuLinkSelector).hover(function () {
+			$(menuContentSelector).css("display", "block");
+			setOffset(menuLinkSelector, menuContentSelector)
+		}, function () {
+			$(menuContentSelector).css("display", "none");
+		});
+	}
+
+	setMenuHover(".dropdown", ".dropdown-content");
+	setMenuHover(".dropdown-resources", ".dropdown-resources-content")
+	setMenuHover(".dropdown1", ".dropdown-content1");
+
+	$(".fa-caret-down1").click(function () {
+
+		$("#mobile1").toggle();
+	});
+	$(".fa-caret-down2").click(function () {
+
+		$("#mobile2").toggle();
+	});
+
+	$(".fa-caret-down-resources").click(function () {
+
+		$("#mobile-resources").toggle();
+	});
+</script>
+
+<script>
+	// Get the modal
+	var modal = document.getElementById("trademarksModal");
+
+	// Get the button that opens the modal
+	var btn = document.getElementById("trademarksButton");
+
+	// Get the <span> element that closes the modal
+	var span = document.getElementsByClassName("close")[0];
+
+	// When the user clicks on the button, open the modal
+	btn.onclick = function () {
+		modal.style.display = "block";
+	}
+
+	// When the user clicks on <span> (x), close the modal
+	span.onclick = function () {
+		modal.style.display = "none";
+	}
+
+	// When the user clicks anywhere outside of the modal, close it
+	window.onclick = function (event) {
+		if (event.target == modal) {
+			modal.style.display = "none";
+		}
+	}
+</script>
+
+
+
+
+
+
+</body></html>
