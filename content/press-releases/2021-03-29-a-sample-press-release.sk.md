@@ -20,15 +20,11 @@ Trojnásobne nižšie náklady na procesor Prodigy (na MIPS) spolu s jeho 10-ná
 
 Spoločnosti, ktoré majú záujem o hodnotenie softvérových emulačných systémov Prodigy, môžu navštíviť stránku <https://www.tachyum.com/webhosting> pre viac informácií.
 
-
-
 ##### Sledujte Tachyum
 
 <https://twitter.com/tachyum>\
 <https://www.linkedin.com/company/tachyum>\
 [https://www.facebook.com/Tachyum/](https://www.facebook.com/Tachyum)
-
-
 
 ##### O spoločnosti Tachyum
 

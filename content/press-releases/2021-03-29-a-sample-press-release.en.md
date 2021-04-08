@@ -1,8 +1,10 @@
 ---
-title: A sample press release
+title: A sample press release with custom preview
 date: 2021-03-16T14:55:46.227Z
 ---
 LAS VEGAS, Nevada, March 16, 2021 –[Tachyum](http://www.tachyum.com)™ Inc. today announced that it is nearing design completion of its Prodigy Universal Processor, further ensuring that hyperscale data centers, supercomputer and next generation AI system designers, will finally have the disruptive universal computing fabric to deliver beyond state-of-the-art performance.
+
+Šalala
 
 Tachyum’s ability to achieve Prodigy’s 99 percent completion with a stable netlist layout and Clock Tree Synthesis (CTS) implemented is a last netlist milestone before final netlist and its tape-out. Tachyum has successfully compiled its Prodigy design to an FPGA emulation, moving it one step closer to meeting its goal of achieving production later this year.
 
