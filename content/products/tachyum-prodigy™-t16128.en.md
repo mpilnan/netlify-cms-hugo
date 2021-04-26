@@ -8,6 +8,6 @@ _build:
 
 12 DDR5
 
-2 x 400G Ethernet
+2 x 400G Ethernet 
 
 48 PCI Express 5.0
