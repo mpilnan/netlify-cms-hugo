@@ -4,6 +4,7 @@ backend:
   base_url: http://127.0.0.1:5000
 media_folder: static/img
 public_folder: /img
+logo_url: http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/assets/img/Tachyum_logo%20blue.jpg
 i18n:
   structure: multiple_files
   locales: [en, sk]
@@ -31,3 +32,29 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string', i18n: true }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', i18n: duplicate }
       - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
+
+  - name: 'software'
+    label: 'Software'
+    folder: 'content/software'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'jobs'
+    label: 'Job position'
+    folder: 'content/jobs'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

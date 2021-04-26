@@ -1,6 +1,8 @@
 ---
 title: Tachyum Prodigy™ T16128
 datasheet: https://www.tachyum.com/assets/img/Datasheet-16128.pdf
+_build:
+    render: never
 ---
 128 cores at 4 GHz
 

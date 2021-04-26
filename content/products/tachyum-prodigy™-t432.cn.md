@@ -1,6 +1,8 @@
 ---
 title: Tachyum Prodigy™ T432
 datasheet: https://www.tachyum.com/assets/img/Datasheet-432.pdf
+_build:
+    render: never
 ---
 32 cores at 3.2 GHz
 
