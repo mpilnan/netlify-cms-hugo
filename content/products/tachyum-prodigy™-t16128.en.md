@@ -6,6 +6,6 @@ datasheet: https://www.tachyum.com/assets/img/Datasheet-16128.pdf
 
 12 DDR5
 
-2 x 400G Ethernet
+2 x 400G Ethernet 
 
 48 PCI Express 5.0
