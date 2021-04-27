@@ -2,7 +2,9 @@
 title: Tachyum Prodigy™ T864
 datasheet: https://www.tachyum.com/assets/img/Datasheet-864.pdf
 _build:
-    render: never
+  render: never
+product: true
+weight: 3
 ---
 Up to 64 cores in a single socket, up to 128 cores in a dual socket
 
