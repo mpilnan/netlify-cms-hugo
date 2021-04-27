@@ -2,7 +2,9 @@
 title: Tachyum Prodigy™ T216
 datasheet: http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/assets/img/Datasheet-216.pdf
 _build:
-    render: never
+  render: never
+product: true
+weight: 1
 ---
 16 cores at 2.8 GHz
 
