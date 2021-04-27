@@ -9,4 +9,4 @@ Customers will be able to use Prodigy’s fully functional FPGA emulation for pr
 
 CUSTOMERS AND PARTNERS CAN ORDER FPGA PROTOTYPES BY
 
-{{% cryptedemail contactus@tachyum.com %}}CONTACTING US{{% /cryptedemail %}}
+{{% cryptedemail "contactus@tachyum.com" %}}CONTACTING US{{% /cryptedemail %}}

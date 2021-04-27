@@ -9,4 +9,4 @@ Zákazníci môžu využiť plne funkčnú FPGA emuláciu Prodigy pre zhodnoteni
 
 Zákazníci a partneri nás v prípade záujmu o FPGA prototyp môžu
 
-{{% cryptedemail contactus@tachyum.com %}}KONTAKTOVAŤ{{% /cryptedemail %}}
+{{% cryptedemail "contactus@tachyum.com" %}}KONTAKTOVAŤ{{% /cryptedemail %}}

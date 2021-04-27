@@ -9,6 +9,6 @@ contact: ""
 
 客户和合作伙伴可以通过[](mailto:contactus@tachyum.com)
 
-{{% cryptedemail contactus@tachyum.com %}}联系我们{{% /cryptedemail %}}
+{{% cryptedemail "contactus@tachyum.com" %}}联系我们{{% /cryptedemail %}}
 
 订购FPGA原型
