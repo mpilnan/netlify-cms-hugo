@@ -1,7 +1,7 @@
 ---
 title: Tachyum Prodigy™  FPGA-Based Emulator
 product: false
-weight: 1
+weight: 101
 datasheet: https://www.tachyum.com/assets/pdf/FPGA%20Datasheet.pdf
 contact: ""
 ---
