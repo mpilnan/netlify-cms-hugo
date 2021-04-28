@@ -1,3 +1,15 @@
+---
+hero_headline: A single processor
+featured_images:
+  - image: /img/img1.png
+    headline: Faster than Xeon but smaller than ARM
+    subheadline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - image: /img/brain.jpg
+    headline: " Existing applications can run without changes"
+    subheadline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+---
 # Oh hello
 
 ## What's done:
