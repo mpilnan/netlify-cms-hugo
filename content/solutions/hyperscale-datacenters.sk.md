@@ -1,5 +1,6 @@
 ---
 title: Dátové centrá v segmente „hyperscale“
+weight: 10
 ---
 Procesor Prodigy od spoločnosti Tachyum umožní, aby sa dátové centrá typu „hyperscale“, ktoré predstavujú jeho primárny trh, stali nízko nákladovými, energeticky úspornými univerzálnymi výpočtovými centrami. Hyperscale dátové centrá si s univerzálnymi procesormi Prodigy znížia svoje celkové náklady na operácie (TCO) až štvornásobne, čo predstavuje u každého hyperscale zákazníka ušetrenie miliárd dolárov ročne.
 

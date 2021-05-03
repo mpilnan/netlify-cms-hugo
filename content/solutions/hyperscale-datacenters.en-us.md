@@ -1,5 +1,6 @@
 ---
 title: Hyperscale datacenters
+weight: 10
 ---
 Tachyum’s Prodigy processor will enable hyperscale data centers, its primary market, to become low cost, energy efficient universal computing centers. Hyperscale data centers with the Prodigy universal processors will reduce their TCO (Total Cost of Operations) by a factor of 4x – saving each hyperscale customer billions of dollars per year.
 
