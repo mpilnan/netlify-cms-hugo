@@ -1,5 +1,6 @@
 ---
 title: "Vojsko a spravodajstvo "
+weight: 60
 ---
 Strategická hodnota procesora Prodigy pre národnú obranu zahŕňa prakticky celú škálu misií a systémov ministerstva obrany a spravodajskej komunity. Vo väčšine prípadov použitia bude jeho vplyv veľmi veľký. Na obranné a spravodajské systémy je možné priamo previesť nevídané univerzálne výpočtové schopnosti procesora Prodigy a jeho náklady a energetickú účinnosť v rámci dátových centier, AI, HPC a telekomunikácií. Prodigy podporí výpočtové funkcie s nízkou latenciou, Big AI a bezprecedentné schopnosti HPC v rámci všetkých ministerstiev, inštitúcií, programov a jednotiek. Schopnosť serverov využívajúcich Prodigy poskytnúť bezproblémový a dynamický odklon od normálneho zaťaženia k AI spracovaniu prinesie operačným jednotkám v rámci veliacej a riadiacej infraštruktúry vysokovýkonnú AI s nízkou latenciou.
 
