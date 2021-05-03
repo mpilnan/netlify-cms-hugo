@@ -1,5 +1,6 @@
 ---
 title: Súkromný cloud
+weight: 40
 ---
 Procesor Prodigy masívne zníži náklady a spotrebu podnikových dátových centier, AI a HPC, zabezpečí novú generáciu lokálnych produktov s bezprecedentnými schopnosťami a bude k dispozícii pre operátorov súkromných cloudov za ceny, ktoré v konečnom dôsledku zaistia priaznivú návratnosť investícií.\
 \

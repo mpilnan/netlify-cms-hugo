@@ -1,5 +1,6 @@
 ---
 title: "Private Cloud "
+weight: 40
 ---
 Prodigy massively reduces the cost and the power of the enterprise data center, AI and HPC workloads. It will enable a new generation of on-premise products with unprecedented capabilities. And, it will be available to private cloud operators, at prices that finally generate favorable ROIs.\
 \
