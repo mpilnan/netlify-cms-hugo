@@ -1,5 +1,6 @@
 ---
 title: "Umelá inteligencia "
+weight: 30
 ---
 Nevyužité „univerzálne servery“ využívajúce procesor Prodigy v hyperscale dátových centrách poskytnú mimo špičky 10-krát viac zdrojov na trénovanie a inferencie neurónovej siete umelej inteligencie, ako je v súčasnosti k dispozícii, a to bez kapitálových nákladov (t.j. pri nízkych nákladoch, pretože univerzálne výpočtové servery využívajúce procesor Prodigy už boli zakúpené a splatené).
 

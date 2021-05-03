@@ -1,5 +1,6 @@
 ---
 title: "Artificial Intelligence "
+weight: 30
 ---
 Idle Prodigy-powered universal servers in hyperscale data centers, during off-peak hours, will deliver 10x more AI Neural Network training/inference resources than currently available, CAPEX free (i.e. at low cost, since the Prodigy-powered universal computing servers are already bought & paid for).
 
