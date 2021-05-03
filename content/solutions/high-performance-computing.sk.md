@@ -1,5 +1,6 @@
 ---
 title: Vysokovýkonné výpočty
+weight: 20
 ---
 Prelomová výpočtová hustota procesora Prodigy (MIPS/čip, MIPS/Watt) a bezprecedentná šírka jeho I/O pásma, spolu s jeho univerzálnosťou dramaticky zlepšia prístup k HPC typu „petascale“ a „exascale“ v širokom spektre prípadov použitia, pričom výrazne znížia náklady na HPC. Enormné budú spoločenské účinky nákladovo efektívnych exascale výpočtových zdrojov, ktoré budú všade k dispozícii na prenájom v hyperscale dátových centrách.
 

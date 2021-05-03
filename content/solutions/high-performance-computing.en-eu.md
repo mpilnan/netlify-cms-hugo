@@ -1,5 +1,6 @@
 ---
 title: High-Performance Computing
+weight: 20
 ---
 Prodigy’s breakthrough computational density (MIPS/Socket, MIPS/Watt) and its unprecedented I/O bandwidth, coupled with its universality, will increase Petascale and Exascale HPC access dramatically, across a broad spectrum of use cases, while driving HPC costs down appreciably. The societal effects of cost-efficient Exascale computing resources, available for rent at hyperscale data centers everywhere, will be profound.
 
