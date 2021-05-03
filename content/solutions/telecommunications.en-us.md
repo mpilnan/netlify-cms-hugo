@@ -1,5 +1,6 @@
 ---
 title: Telecommunications
+weight: 50
 ---
 Prodigy-powered universal servers, certified for extended temperature range, will be delivered to telecommunications conglomerates, to be mounted to their cellular towers providing unprecedented edge computing resources. Low latency, advanced AI training and high-performance inference for IOT will be as close as the nearest cell tower.
 

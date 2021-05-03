@@ -1,5 +1,6 @@
 ---
 title: "Telekomunikácie "
+weight: 50
 ---
 Veľkým telekomunikačným firmám sa budú dodávať univerzálne servery na báze procesora Prodigy s certifikáciou pre rozšírený teplotný rozsah, a tie si ich namontujú na svoje mobilné telekomunikačné veže, čo im zabezpečí bezprecedentné zdroje pre Edge Computing. Už najbližšia mobilná veža zaistí nízku latenciu, pokročilé skúšanie AI a vysokovýkonnú inferenciu pre IOT.
 
