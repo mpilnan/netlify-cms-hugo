@@ -1,4 +1,12 @@
 ---
+_build:
+  render: always
+  
+cascade:
+  _build:
+    render: never
+    list: always
+
 menu:
   main:
     parent: resources
