@@ -1,5 +1,6 @@
 ---
 title: Partners & Associations
+menu.main.name: Partners & Associations
 _build:
   render: always
 cascade:
