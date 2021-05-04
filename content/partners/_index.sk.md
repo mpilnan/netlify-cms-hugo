@@ -1,5 +1,14 @@
 ---
 title: Partneri a združenia
+menu:
+  main:
+    parent: resources
+    weight: 20
+    name: Partneri a združenia
+  footer:
+    parent: resources
+    weight: 20
+    name: Partneri a združenia
 ---
 Spoločnosť Tachyum s hrdosťou oznamuje, že sa stala členom niekoľkých združení v technologickom sektore, ako sú GSA, JEDEC, IEEE, OpenBMC, UEFI, Open Compute Project. Open Euro High Performance Computing Project (OEUHPC), Gaia-X (Európska asociácia pre dáta a cloud). Spoločnosť Tachyum prispeje ako člen svojimi odbornými znalosťami do panelov a pracovných skupín a tiež sa bude zúčastňovať plánovaných podujatí. Členstvo v týchto združeniach umožní manažmentu spoločnosti Tachyum nadviazať kontakt s ostatnými členskými spoločnosťami.
 
