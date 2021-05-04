@@ -1,7 +1,8 @@
 ---
+title: IEEE
 picture: ../assets/img/IEEE.jpg
-type: association
 weight: 20
+type: association
 ---
 
 Najväčšia technická odborná organizácia na svete v oblasti rozvoja elektroniky.
