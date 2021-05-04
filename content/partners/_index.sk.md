@@ -3,7 +3,7 @@ title: Partneri a združenia
 menu:
   main:
     parent: resources
-    weight: 20
+    weight: 21
     name: Partneri a združenia
   footer:
     parent: resources

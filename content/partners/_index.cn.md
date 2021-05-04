@@ -2,7 +2,7 @@
 menu:
   main:
     parent: resources
-    weight: 20
+    weight: 21
   footer:
     parent: resources
     weight: 20

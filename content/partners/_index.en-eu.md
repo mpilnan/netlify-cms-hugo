@@ -4,7 +4,7 @@ menu.main.name: Partners and Associations
 menu:
   main:
     parent: resources
-    weight: 20
+    weight: 21
     name: Partners and Associations
   footer:
     parent: resources
