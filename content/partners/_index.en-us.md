@@ -1,4 +1,11 @@
 ---
+_build:
+  render: always
+  
+cascade:
+  _build:
+    render: never
+    list: always
 title: Partners & Associations
 menu:
   main:
