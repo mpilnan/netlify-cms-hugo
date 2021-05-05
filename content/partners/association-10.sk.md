@@ -1,6 +1,6 @@
 ---
 title: "JEDEC "
-picture: ../assets/img/JEDEC_Logo_2013.jpg
+picture: jedec_logo_2013.jpg
 weight: 10
 type: association
 ---
