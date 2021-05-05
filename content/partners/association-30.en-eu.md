@@ -1,6 +1,6 @@
 ---
 title: Open Community
-picture: ../assets/img/OCP.jpeg
+picture: ocp.jpeg
 weight: 30
 type: association
 ---
