@@ -1,5 +1,5 @@
 ---
-picture: ../assets/img/sylex-logo-fiberoptics-red.png
+picture: sylex-logo-fiberoptics-red.png
 weight: 46
 type: commercial_partner
 ---
