@@ -1,6 +1,6 @@
 ---
 title: Seagate Technology
-picture: ../assets/img/seagate-green-stacked.jpg
+picture: seagate-green-stacked.jpg
 weight: 26
 type: commercial_partner
 ---
