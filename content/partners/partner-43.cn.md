@@ -1,0 +1,3 @@
+---
+picture: gaia-x.png
+---
