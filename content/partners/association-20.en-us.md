@@ -1,6 +1,6 @@
 ---
 title: IEEE
-picture: assets/img/IEEE.jpg
+picture: ieee.jpg
 weight: 20
 type: association
 ---
