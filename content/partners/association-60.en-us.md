@@ -1,6 +1,6 @@
 ---
 title: "SONiC "
-picture: assets/img/sonic-logo.jpg
+picture: sonic-logo.jpg
 weight: 60
 type: association
 ---
