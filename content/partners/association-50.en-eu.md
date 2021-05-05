@@ -1,6 +1,6 @@
 ---
 title: UEFI
-picture: ../assets/img/UEFI non official logo.png
+picture: uefi-non-official-logo.png
 weight: 50
 type: association
 ---
