@@ -1,6 +1,6 @@
 ---
 title: VNET
-picture: assets/img/VNET.jpg
+picture: vnet.jpg
 weight: 36
 type: commercial_partner
 ---
