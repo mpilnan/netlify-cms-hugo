@@ -1,6 +1,6 @@
 ---
 title: "TCG "
-picture: assets/img/tcg_logo.png
+picture: tcg_logo.png
 weight: 70
 type: association
 ---
