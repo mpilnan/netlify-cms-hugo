@@ -1,6 +1,6 @@
 ---
 title: GSA
-picture: ../assets/img/GSA LOGO.png
+picture: gsa-logo.png
 weight: 1
 type: association
 ---
