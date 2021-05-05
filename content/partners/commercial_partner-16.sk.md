@@ -1,6 +1,6 @@
 ---
 title: Towercom
-picture: ../assets/img/towercom_logo_RGB_farebne_vertikalne.png
+picture: towercom_logo_rgb_farebne_vertikalne.png
 weight: 16
 type: commercial_partner
 ---
