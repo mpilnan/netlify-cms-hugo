@@ -1,6 +1,6 @@
 ---
 title: OpenBMC
-picture: ../assets/img/OpenBMC_logo - non official.png
+picture: openbmc_logo-non-official.png
 weight: 40
 type: association
 ---
