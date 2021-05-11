@@ -29,5 +29,9 @@ title: Contact
 type: contact
 ---
 Email us at: 
-{{% cryptedemail "contactus@tachyum.com" %}}{{% /cryptedemail %}} to join our  
+
+
+{{% cryptedemail "contactus@tachyum.com" %}}{{% /cryptedemail %}} 
+
+to join our\
 mailing list, or to participate in our journey.
