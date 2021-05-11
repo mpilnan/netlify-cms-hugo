@@ -1,5 +1,6 @@
 ---
 title: Home
+homepage: true
 hero_headline: A single processor
 hero_subheadline: Tachyum is enabling human brain-scale AI and advancing the entire world to a greener era, by delivering the world’s first universal processor.
 featured_headline: Turn your data center into a Universal Computing Center, with Prodigy
