@@ -1,23 +1,4 @@
 ---
-title: Contact
-type: contact
-layout: contact
-menus:
-  main:
-    identifier: contact
-    weight: -10
-
-  footer:
-    parent: about
-    weight: 100
-
-headline: Contact
-pr_contact:
-  photo: /media/contact/smith.jpg
-  name: Mark Smith
-  company: JPR Communications
-  phone: (818) 398-1424
-addresses_headline: Addresses
 addresses:
   - photo: /media/contact/2520_Mission.jpg
     google_embed: pb=!1m14!1m8!1m3!1d12904.955934964855!2d-115.118831!3d36.038873!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8cfb60e0ffe19%3A0x75f1434f2a4c0faf!2s8275%20S%20Eastern%20Ave%20%23233%2C%20Las%20Vegas%2C%20NV%2089123%2C%20USA!5e0!3m2!1sen!2ssk!4v1620731426061!5m2!1sen!2ssk
@@ -29,6 +10,23 @@ addresses:
     address: |
       8275 South Eastern Ave, Ste 233,  
       Las Vegas, NV 89123 
+pr_contact:
+  photo: /media/contact/smith.jpg
+  name: Mark Smith
+  company: JPR Communications
+  phone: (818) 398-1424
+layout: contact
+addresses_headline: Addresses
+headline: Contact
+menus:
+  main:
+    identifier: contact
+    weight: -10
+  footer:
+    parent: about
+    weight: 100
+title: Contact
+type: contact
 ---
-Email us at: {{% cryptedemail "contactus@tachyum.com" %}}{{% /cryptedemail %}} to join our  
+Email us at: {{% cryptedemail "contactus@tachyum.com" %}} {{% /cryptedemail %}} to join our\
 mailing list, or to participate in our journey.
