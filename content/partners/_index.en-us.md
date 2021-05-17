@@ -17,6 +17,11 @@ menu:
     parent: resources
     name: Partners & Associations
     weight: 20
+
+headings:
+  association: Associations
+  partner: Partners
+  commercial_partner: Commercial Partners
 ---
 Tachyum is proud to announce that it has become a member of several industry associations in the technology sector, such as GSA, JEDEC, IEEE, OpenBMC, UEFI, Open Compute Project, Open Euro High Performance Computing Project (OEUHPC), Gaia-X (European Association for Data and Cloud). As a member, Tachyum will contribute its expertise to panels and working groups, and participate in scheduled events. It will also enable key Tachyum management to network and engage with other member companies.
 
