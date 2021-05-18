@@ -6,7 +6,7 @@ Prodigy’s breakthrough computational density (MIPS/Socket, MIPS/Watt) and its 
 
 ![4-Socket server (2021)](https://www.tachyum.com/assets/img/4-socket.jpg "4-Socket server (2021)")
 
-{{< figure src="/media/default-product-thumbnail-big.jpg" title="Figure test" alt="" caption="" >}}
+{{< figure src="/media/default-product-thumbnail-big.jpg" title="Figure test" alt="Figure test" caption="Caption" >}}
 
 Dedicated Prodigy-powered HPC systems will be affordable at the Enterprise level. Prodigy will “democratize” HPC, by bringing its capabilities to small and medium enterprises, at a much lower CAPEX and OPEX than what is currently available today.
 
