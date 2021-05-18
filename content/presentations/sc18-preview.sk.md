@@ -1,5 +1,5 @@
 ---
-date: 2021-05-05 18:34:44.292182
+date: 2021-05-05
 external: https://insidehpc.com/2018/08/sc18-preview-steve-furber-brain-inspired-massively-parallel-computing/
 title: SC18 Preview
 ---

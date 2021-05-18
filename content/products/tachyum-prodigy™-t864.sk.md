@@ -1,6 +1,6 @@
 ---
 title: Tachyum Prodigy™ T864
-datasheet: https://www.tachyum.com/assets/img/Datasheet-864.pdf
+datasheet: /datasheets/Datasheet-864.pdf
 _build:
   render: never
 product: true

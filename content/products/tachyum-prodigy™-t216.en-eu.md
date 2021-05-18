@@ -1,6 +1,6 @@
 ---
 title: Tachyum Prodigy™ T216
-datasheet: http://tsk-dev-sw-mpilnan.tachyum.sk/corporate-website/assets/img/Datasheet-216.pdf
+datasheet: /datasheets/Datasheet-216.pdf
 _build:
   render: never
 product: true

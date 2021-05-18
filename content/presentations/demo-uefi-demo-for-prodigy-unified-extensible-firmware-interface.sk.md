@@ -1,5 +1,5 @@
 ---
-date: 2021-05-05 18:34:44.292182
+date: 2021-05-05
 press_release: 2020-12-01-tachyum-demonstrates-prodigy-uefi-available-to-partners-for-product-launch-in-2021
 title: 'Demo: UEFI Demo for Prodigy - Unified Extensible Firmware Interface'
 videos:

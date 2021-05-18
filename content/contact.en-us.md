@@ -21,17 +21,17 @@ headline: Contact
 menus:
   main:
     identifier: contact
-    weight: -10
+    weight: 120
   footer:
     parent: about
     weight: 100
+  footer_secondary:
+    identifier: contact
+    weight: 40
 title: Contact
 type: contact
 ---
 Email us at: 
 
-
-{{% cryptedemail "contactus@tachyum.com" %}}{{% /cryptedemail %}} 
-
-to join our\
+{{% cryptedemail "contactus@tachyum.com" %}}{{% /cryptedemail %}} to join our  
 mailing list, or to participate in our journey.

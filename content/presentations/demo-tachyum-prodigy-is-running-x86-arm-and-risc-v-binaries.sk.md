@@ -1,5 +1,5 @@
 ---
-date: 2021-05-05 18:34:44.292182
+date: 2021-05-05
 press_release: 2020-08-04-tachyum-shows-prodigy-running-existing-x86-arm-and-risc-v-software
 title: 'Demo: Tachyum Prodigy is running x86, ARM, and RISC-V binaries'
 videos:

@@ -1,4 +1,5 @@
 ---
+homepage: true
 _build:
   render: always
   
@@ -14,4 +15,8 @@ menu:
   footer:
     parent: resources
     weight: 20
+headings:
+  association: Associations
+  partner: Partners
+  commercial_partner: Commercial Partners
 ---

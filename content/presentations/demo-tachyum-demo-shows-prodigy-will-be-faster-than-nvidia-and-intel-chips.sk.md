@@ -1,5 +1,5 @@
 ---
-date: 2021-05-05 18:34:44.292182
+date: 2021-05-05
 press_release: 2020-08-11-tachyum-demo-shows-prodigy-will-be-faster-than-nvidia-and-intel-chips
 title: 'Demo: Tachyum Demo Shows Prodigy will be Faster than NVIDIA and Intel Chips'
 videos:

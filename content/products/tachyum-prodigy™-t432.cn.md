@@ -1,6 +1,6 @@
 ---
 title: Tachyum Prodigy™ T432
-datasheet: https://www.tachyum.com/assets/img/Datasheet-432.pdf
+datasheet: /datasheets/Datasheet-432.pdf
 _build:
   render: never
 product: true

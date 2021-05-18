@@ -1,6 +1,6 @@
 ---
 title: Tachyum Prodigy™ T16128
-datasheet: https://www.tachyum.com/assets/img/Datasheet-16128.pdf
+datasheet: /datasheets/Datasheet-16128.pdf
 _build:
   render: never
 product: true

@@ -1,8 +1,19 @@
 ---
 _build:
   render: always
-collection: /solutions
-  
+
+menu:
+  main:
+    identifier: solutions
+    name: Solutions
+    url: /solutions/
+    weight: -20
+  footer:
+    identifier: solutions
+    name: Solutions
+    url: /solutions/
+    weight: -20
+
 cascade:
   _build:
     render: always
@@ -10,11 +21,10 @@ cascade:
   menu:
     main:
       parent: solutions
-      params:
-        sections: true
     footer:
       parent: solutions
-      params:
-        sections: true
+
+homepage: true
+title: Solutions
 ---
 
