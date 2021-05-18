@@ -8,4 +8,7 @@ menu:
     parent: resources
     name: Prezentácie
     weight: 10
+
+title: Ukážky a prezentácie
+homepage: true
 ---

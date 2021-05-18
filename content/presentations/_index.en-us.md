@@ -10,6 +10,7 @@ menu:
     weight: 10
 
 title: Demos and Presentations
+homepage: true
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed 
 diam nonumy eirmod tempor invidunt ut labore et dolore 

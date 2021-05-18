@@ -8,4 +8,7 @@ menu:
     parent: resources
     name: Presentations
     weight: 10
+
+title: Demos and Presentations
+homepage: true
 ---
