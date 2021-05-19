@@ -1,4 +1,6 @@
 ---
+url: resources/presentations
+
 menu:
   main:
     parent: resources

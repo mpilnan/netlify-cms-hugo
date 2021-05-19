@@ -1,17 +1,19 @@
 ---
-title: Contact
+title: Kontakt
 type: contact
 layout: contact
 menus:
   main:
     identifier: contact
     weight: 120
-
   footer:
     parent: about
     weight: 100
+  footer_secondary:
+    identifier: contact
+    weight: 40
 
-headline: Contact
+headline: Kontakt
 pr_contact:
   photo: /media/contact/smith.jpg
   name: Mark Smith

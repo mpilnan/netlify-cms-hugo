@@ -1,4 +1,5 @@
 ---
+url: resources/partners
 homepage: true
 title: Partneri a združenia
 _build:

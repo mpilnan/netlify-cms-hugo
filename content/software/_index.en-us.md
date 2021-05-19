@@ -1,4 +1,5 @@
 ---
+url: resources/software
 menu:
   main:
     parent: resources

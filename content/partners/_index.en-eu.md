@@ -1,4 +1,5 @@
 ---
+url: resources/partners
 homepage: true
 title: Partners and Associations
 _build:

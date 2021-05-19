@@ -1,4 +1,5 @@
 ---
+url: resources/partners
 homepage: true
 _build:
   render: always

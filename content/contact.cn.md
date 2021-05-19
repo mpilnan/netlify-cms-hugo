@@ -6,10 +6,12 @@ menus:
   main:
     identifier: contact
     weight: 120
-
   footer:
     parent: about
     weight: 100
+  footer_secondary:
+    identifier: contact
+    weight: 40
 
 headline: Contact
 pr_contact:
