@@ -1,8 +1,4 @@
 ---
-homepage: true
-title: Home
-hero_headline: A single processor
-hero_subheadline: Tachyum is enabling human brain-scale AI and advancing the entire world to a greener era, by delivering the world’s first universal processor.
 featured_headline: Turn your data center into a Universal Computing Center, with Prodigy
 featured_images:
   - image: /media/img1.png
@@ -13,7 +9,18 @@ featured_images:
     headline: " Existing applications can run without changes"
     subheadline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+press_releases_headline: Press releases
+homepage: true
+title: Home
+hero_headline: A single processor
+hero_subheadline: Tachyum is enabling human brain-scale AI and advancing the
+  entire world to a greener era, by delivering the world’s first universal
+  processor.
+news:
+  - title: A single processor
+    summary: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+      nonumy eirmod tempor invidunt ut labore et dolore magna.
+    link: https://www.tachyum.com/index
 pictograms_headline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 pictograms:
   - image: /img/cpu.svg
@@ -28,8 +35,6 @@ pictograms:
     headline: Faster than Xeon but smaller than ARM
     subheadline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-press_releases_headline: Press releases
 ---
 # Oh hello
 
