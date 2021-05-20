@@ -1,4 +1,5 @@
 ---
+homepage: true
 title: Home
 hero_headline: A single processor
 hero_subheadline: Tachyum is enabling human brain-scale AI and advancing the entire world to a greener era, by delivering the world’s first universal processor.
