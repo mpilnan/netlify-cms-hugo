@@ -7,6 +7,5 @@ menu:
   footer:
     parent: about
 headline: Company structure
-
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
