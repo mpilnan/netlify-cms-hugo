@@ -18,8 +18,8 @@ mentions:
       Tachyum Prodigy Universal Processor, which will make European data centers
       some of the most cost- and power-efficient in the world.
   - date: 2021-02-24T09:47:11.624Z
-    headline: "Tachyum Joins GAIA-X to Help Develop Next-Generation European Data
-      Infrastructures "
+    headline: Tachyum Joins GAIA-X to Help Develop Next-Generation European Data
+      Infrastructures 2
     publication: enterpriseai
     link: https://www.enterpriseai.news/2021/04/29/tachyum-joins-gaia-x-to-help-develop-next-generation-european-data-infrastructures/
     summary: Tachyum has announced its membership in GAIA-X, an EU-based initiative
