@@ -7,7 +7,7 @@ menu:
     parent: media
     weight: 20
 featured:
-  - date: 2021-11-24T09:47:11.624Z
+  - date: 2017-05-24T09:47:11.624Z
     headline: "Tachyum Joins GAIA-X to Help Develop Next-Generation European Data
       Infrastructures "
     publication: enterpriseai
