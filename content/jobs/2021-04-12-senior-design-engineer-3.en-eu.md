@@ -1,6 +1,10 @@
 ---
 title: "Senior Design Engineer 3 "
 available: true
+publishDate: 2021-05-25T13:47:17.890Z
+expiryDate: 2021-05-25T13:47:17.936Z
+location:
+  - santa-clara-ca
 ---
 Tachyum is a Silicon Valley based semiconductor startup company developing disruptive new Prodigy Universal Processor products. It will provide unprecedented compute performance and power efficiency for Data Center and AI applications, and enable a new generation of Servers and Supercomputers. Tachyum processor chip for Hyperscale Workloads, Deep ML, General, Symbolic and Bio AI will help simulate brain-sized neural networks in real time
 
