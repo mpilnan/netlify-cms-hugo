@@ -1,12 +1,52 @@
-socials:
-  - title: Facebook
-    icon: fa-facebook-square
-    link: https://www.facebook.com/Tachyum/
+en-us:
+  socials:
+    - title: Facebook
+      icon: fa-facebook-square
+      link: https://www.facebook.com/Tachyum/
 
-  - title: Twitter
-    icon: fa-twitter-square
-    link: https://twitter.com/tachyum
+    - title: Twitter
+      icon: fa-twitter-square
+      link: https://twitter.com/tachyum
 
-  - title: LinkedIn
-    icon: fa-linkedin
-    link: https://www.linkedin.com/company/tachyum
+    - title: LinkedIn
+      icon: fa-linkedin
+      link: https://www.linkedin.com/company/tachyum
+en-eu:
+  socials:
+    - title: Facebook
+      icon: fa-facebook-square
+      link: https://www.facebook.com/Tachyum/
+
+    - title: Twitter
+      icon: fa-twitter-square
+      link: https://twitter.com/tachyum
+
+    - title: LinkedIn
+      icon: fa-linkedin
+      link: https://www.linkedin.com/company/tachyum
+cn:
+  socials:
+    - title: Facebook
+      icon: fa-facebook-square
+      link: https://www.facebook.com/Tachyum/
+
+    - title: Twitter
+      icon: fa-twitter-square
+      link: https://twitter.com/tachyum
+
+    - title: LinkedIn
+      icon: fa-linkedin
+      link: https://www.linkedin.com/company/tachyum
+sk:
+  socials:
+    - title: Facebook
+      icon: fa-facebook-square
+      link: https://www.facebook.com/Tachyum/
+
+    - title: Twitter
+      icon: fa-twitter-square
+      link: https://twitter.com/tachyum
+
+    - title: LinkedIn
+      icon: fa-linkedin
+      link: https://www.linkedin.com/company/tachyum
