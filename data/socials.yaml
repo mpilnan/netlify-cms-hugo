@@ -1,0 +1,12 @@
+socials:
+  - title: Facebook
+    icon: fa-facebook-square
+    link: https://www.facebook.com/Tachyum/
+
+  - title: Twitter
+    icon: fa-twitter-square
+    link: https://twitter.com/tachyum
+
+  - title: LinkedIn
+    icon: fa-linkedin
+    link: https://www.linkedin.com/company/tachyum
