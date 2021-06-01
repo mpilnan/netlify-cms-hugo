@@ -1,10 +1,11 @@
 ---
 date: 2021-05-05
-press_release: 2020-12-01-tachyum-demonstrates-prodigy-uefi-available-to-partners-for-product-launch-in-2021
-title: 'Demo: Apache Tomcat and software debugging on Prodigy'
+title: "Demo: Apache Tomcat and software debugging on Prodigy"
+press_release: 2021-04-08-a-new-press-release
+publishDate: 2021-06-01
 videos:
-- desc: Apache Tomcat and software debugging
-  video: https://www.youtube.com/embed/ZhBRYhv072Y
+  - desc: Apache Tomcat and software debugging
+    video: https://www.youtube.com/embed/ZhBRYhv072Y
 ---
 
 Apache Tomcat and software debugging
