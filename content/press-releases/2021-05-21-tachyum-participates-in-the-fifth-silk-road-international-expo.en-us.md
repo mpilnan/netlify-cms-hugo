@@ -1,7 +1,7 @@
 ---
 title: "Tachyum Participates in the Fifth Silk Road International EXPO "
 draft: false
-publishDate: 2021-05-21T10:38:03.723Z
+publishDate: 2021-05-22
 thumbnail: /media/press-releases/default-product-thumbnail-big.jpg
 ---
 LAS VEGAS, Nevada, May 18, 2021 –[Tachyum](http://www.tachyum.com)™ was invited to present at the China (Shaanxi) – Slovakia Economic and Trade Cooperation and Cultural Tourism Exchange Conference during the Fifth Silk Road International Expo in Xi’an, Shaanxi Province on May 11 – 15. Dr. Rado Danilak, co-founder and CEO of Tachyum spoke about how the Prodigy Universal Processor for servers, AI and HPC enables data centers to exceed the capacity of the human brain while drastically lowering power consumption and costs, and how it represents opportunities for collaborative partnerships.
